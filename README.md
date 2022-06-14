@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Talk with others
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Semi-anonymous real time web chat app built with React JS and Firebase where you sign in with google and it just shows your profile photo, no more!
 
-## Available Scripts
+<img width="1396" alt="Screen Shot 2022-06-14 at 12 54 08 a m" src="https://user-images.githubusercontent.com/47612276/173503467-72d919fb-7e18-40d1-89bf-ff704e3d3973.png">
 
-In the project directory, you can run:
+App demo: https://talk-with-others-90706.web.app/
 
-### `npm start`
+## How to use?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone this repo
+2. Run `npm i` to install all node modules and dependencies
+3. Run `npm start` to execute app
+4. Enjoy!
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Follow me
 
-### `npm test`
+Twitter: https://twitter.com/anticode
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Follow my audio plug-ins company Ear Candy Technologies:
+* Facebook: https://www.facebook.com/earcandytechnologies
+* Twitter: https://twitter.com/EarCandyTech
+* Instagram: https://www.instagram.com/earcandytechnology/
+* Youtube: https://www.youtube.com/channel/UCnmhLuxpV3PftGI2YR5kpFA
+* Discord Server: https://discord.gg/44d6SEmw
