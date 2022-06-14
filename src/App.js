@@ -14,13 +14,7 @@ import Login from "./Components/Login.js"
 import LogoScanda from "./assets/logoScanda.png";
 
 firebase.initializeApp({
-	apiKey: "AIzaSyBWBjD_bln6NPrKCG7WDtaDLZPn14CW-_0",
-	authDomain: "talk-with-others-90706.firebaseapp.com",
-	projectId: "talk-with-others-90706",
-	storageBucket: "talk-with-others-90706.appspot.com",
-	messagingSenderId: "573995883687",
-	appId: "1:573995883687:web:278230c233ef191d014f82",
-	measurementId: "G-2EG0S58WD6"
+	// PUT ALL YOU FIREBASE INFO HERE (API KEY, AUTH DOMAIN, ETC)
 })
 
 const auth = firebase.auth();
