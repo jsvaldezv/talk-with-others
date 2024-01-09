@@ -12,14 +12,3 @@ App demo: https://talk-with-others-90706.web.app/
 2. Run `npm i` to install all node modules and dependencies
 3. Run `npm start` to execute app
 4. Enjoy!
-
-## Follow me
-
-Twitter: https://twitter.com/anticode
-
-## Follow my audio plug-ins company Ear Candy Technologies:
-* Facebook: https://www.facebook.com/earcandytechnologies
-* Twitter: https://twitter.com/EarCandyTech
-* Instagram: https://www.instagram.com/earcandytechnology/
-* Youtube: https://www.youtube.com/channel/UCnmhLuxpV3PftGI2YR5kpFA
-* Discord Server: https://discord.gg/44d6SEmw
